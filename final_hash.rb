@@ -26,7 +26,7 @@ monopoly =  {
       {
         "mortgage_value"=>"$400"
       },
-      :shortline_to_nowhere=>
+      :shortline=>
       {
         "mortgage_value"=>"$800"
       }
